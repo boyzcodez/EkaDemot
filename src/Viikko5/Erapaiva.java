@@ -1,4 +1,4 @@
-package Viikko5;
+package viikko5;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;

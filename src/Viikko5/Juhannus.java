@@ -1,4 +1,4 @@
-package Viikko5;
+package viikko5;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;
